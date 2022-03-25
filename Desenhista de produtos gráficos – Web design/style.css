@@ -96,8 +96,45 @@ td{
 }
 
 .contato{
-    margin-top: 140px;
-    width: 50%;
+    border: 1px solid #204b5e;
+    margin-top: 80px;
+    width: 58%;
+    margin-left: 19%;
+    margin-right: 19%;
     float: left;
-    text-align: left;
+    text-align: justify;
+}
+
+.mapa{
+    width: 45%;
+    height: auto;
+    float: right;
+}
+
+.contato h3{
+    padding: 7px;
+}
+
+.contato p{
+    padding: 6px;
+}
+
+.empresa{
+    border: 1px solid #204b5e;
+    margin-top: 80px;
+    width: 58%;
+    margin-left: 19%;
+    margin-right: 19%;
+    float: left;
+    text-align: justify;
+}
+
+.empresa h3{
+    padding: 7px;
+    text-align: center;
+}
+
+.empresa p{
+    padding: 6px;
+    text-indent: 6%;
 }
